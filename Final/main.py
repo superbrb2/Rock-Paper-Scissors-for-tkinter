@@ -129,9 +129,9 @@ label = Label(big_frame, font=('courier', 19), anchor='n', justify='center', bg=
 label.place(relwidth=0.9, relheight=0.7, relx=0.05, rely=0.25)
 
 #---------------------------------------------------------------IMAGES
-Rock_image = PhotoImage(file='images/rock.png')
-Paper_image = PhotoImage(file='images/paper.png')
-Scissors_image = PhotoImage(file='images/scissors.png')
+Rock_image = PhotoImage(file='Final/images/rock.png')
+Paper_image = PhotoImage(file='Final/images/paper.png')
+Scissors_image = PhotoImage(file='Final/images/scissors.png')
 
 #---------------------------------------------------------------BUTTONS
 
